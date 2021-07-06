@@ -9,16 +9,16 @@ I am a Highly Engaged and Resourceful Engineering Student with expertise in Andr
 
 Key Highlights:
 
-📱Published 3 Android Applications on the Google Playstore.
+📱 Published 3 Android Applications on the Google Playstore.
 
-🎇Won 5+ National Hackathons organized in various universities throughout the country.
+🏆 Won 5+ National Hackathons organized in various universities throughout the country.
 
-💻Founded a web-based initiative "ISC Helpline" to help students through 12th-grade ISC Science.
+💻 Founded a web-based initiative "ISC Helpline" to help students through 12th-grade ISC Science.
 
 <br>
 Here are some ideas to get you started:
 
-🔭 I’m currently working on writing a research paper on one of my recent projects involving field of Electronics coupled with an Android Application.
+<br>🔭 I’m currently working on writing a research paper on one of my recent projects involving field of Electronics coupled with an Android Application.
 
 🌱 I’m currently learning Data Structures and Algorithms.
 
@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 -->
 
 <br>
-Please visit linktr.ee/vishalhingorani to reach me📫 or check out some of my work⚡
+Please click <a href="linktr.ee/vishalhingorani">here</a> to reach me 📫 or check out some of my work ⚡
