@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 -->
 
 <br>
-Please click <a href="linktr.ee/vishalhingorani">here</a> to reach me 📫 or check out some of my work ⚡
+Please click <a href="https://linktr.ee/vishalhingorani">here</a> to reach me 📫 or check out some of my work ⚡
