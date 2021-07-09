@@ -3,7 +3,7 @@
 
 <!--**vishalvhingorani/vishalvhingorani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-I am a Highly Engaged and Resourceful Engineering Student with expertise in Android Development in Java and Kotlin with various backend technologies. I am immensely involved in Competitive Programming and Problem Solving. Being an Electrical Engineering major, I'm enthusiastic about the field of Electrical and Electronic devices with the ability to read, design, and interpret Circuits.
+I am a Highly Engaged and Resourceful Engineering Student with expertise in Android Development in Java and Kotlin with various backend technologies. I am immensely involved in Competitive Programming and Problem Solving. I've had the opportunity to be a Research Author in the field of Electrical and Electronic devices with the ability to read, design, and interpret Circuits. 
 
 <br>
 
