@@ -20,11 +20,11 @@ Key Highlights:
 <br>
 Here are some ideas to get you started:
 
-<br>🔭 I’m currently working on a mobile application for my E-learning Service.
+<br>🔭 I’m currently working on a Mobile Application for my E-learning Service.
 
 🌱 I’m currently learning Data Structures and Algorithms.
 
-👯 I’m looking to collaborate on open source projects for fellowships.
+👯 I’m looking to collaborate on Open Source projects for fellowships.
 <!--- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: 
