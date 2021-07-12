@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-<!--**vishalvhingorani/vishalvhingorani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
 I am a Highly Engaged and Resourceful Engineering Student with expertise in Android Development in Java and Kotlin with various backend technologies. I am immensely involved in Competitive Programming and Problem Solving. I've had the opportunity to be a Research Author in the field of Electrical and Electronic devices with the ability to read, design, and interpret Circuits. 
 
 <br>
@@ -19,20 +16,28 @@ Key Highlights:
 
 🌟 Selected amongst Top 100 Coders from non-CS branches of all campuses of VIT by the VIT Placement Cell.
 
+--- 
+
+![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=vishalvhingorani&show_icons=true&theme=dark)
+
+---
+
+### Languages
+
+⚡ Java
+⚡ C++
+⚡ Kotlin
+⚡ Javascript
+⚡ Python
+
+---
+
+<h3>Connect with me 📫 </h3>
+<p float="left"><img height="25" align="left" src="https://www.flaticon.com/svg/static/icons/svg/124/124011.svg"/> <a href="https://linkedin.com/in/vishalhingorani">Vishal Hingorani</a></p>
+<p float="left"><img height="25" align="left" src="https://image.flaticon.com/icons/png/512/300/300218.png"> <a href="https://play.google.com/store/apps/developer?id=Vishal+Hingorani">Google Playstore Apps</a></p>
+<p float="left"><img height="25" align="left" src="https://image.flaticon.com/icons/png/512/2111/2111463.png"> <a href="https://instagram.com/vishalvh">vishalvh</a></p>
+
+
+
 <br>
-Here are some things aboout me to get you started:
-
-<br>🔭 I’m currently working on a Mobile Application for my E-learning Service.
-
-🌱 I’m currently learning Data Structures and Algorithms.
-
-👯 I’m looking to collaborate on Open Source projects for fellowships.
-<!--- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<br>
-Please click <a href="https://linktr.ee/vishalhingorani" target="_blank">here</a> to reach me 📫 or check out some of my work ⚡
+Or check out some of my other work <a href="https://linktr.ee/vishalhingorani" target="_blank">here</a> ✨
