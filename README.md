@@ -17,8 +17,10 @@ Key Highlights:
 
 📃 Co-written and Published a Research Paper in the field of Electronics coupled with an Android Application.
 
+🌟 Selected amongst Top 100 Coders from non-CS branches of all campuses of VIT by the VIT Placement Cell.
+
 <br>
-Here are some ideas to get you started:
+Here are some things aboout me to get you started:
 
 <br>🔭 I’m currently working on a Mobile Application for my E-learning Service.
 
