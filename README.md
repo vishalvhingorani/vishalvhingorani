@@ -34,6 +34,7 @@ Key Highlights:
 
 <h3>Connect with me 📫 </h3>
 <p float="left"><img height="25" align="left" src="https://www.flaticon.com/svg/static/icons/svg/124/124011.svg"/> <a href="https://linkedin.com/in/vishalhingorani">Vishal Hingorani</a></p>
+<p float="left"><img height="25" align="left" src="https://www.flaticon.com/svg/static/icons/svg/3617/3617143.svg"> <a href="mailto:vishal.vh8656@gmail.com?subject=Hello Vishal!">vishal.vh8656@gmail.com</a></p>
 <p float="left"><img height="25" align="left" src="https://image.flaticon.com/icons/png/512/300/300218.png"> <a href="https://play.google.com/store/apps/developer?id=Vishal+Hingorani">Google Playstore Apps</a></p>
 <p float="left"><img height="25" align="left" src="https://image.flaticon.com/icons/png/512/2111/2111463.png"> <a href="https://instagram.com/vishalvh">vishalvh</a></p>
 
